@@ -1,4 +1,4 @@
-# energia_parte2
+## energia_parte2
 
 ## Repositorio del Reporte Técnico 
 
@@ -7,9 +7,9 @@
 </div>
 
 <div align="left">
-## CONVENIO CENACE-UNISON 2023-2025
-### Parte II . 
-Febrero 2024.
+## CONVENIO CENACE-UNISON 2023-2025 <br>
+### Parte II . <br>
+Febrero 2024.<br>
 
 
 Este repositorio contiene las libretas relacionadas al desarrollo de prototipo para la metodología para el pronóstico a corto plazo de consumo de energía eléctrica de la zona del Noroeste de México, adaptación a datos fuente grupo 2.
